@@ -1,0 +1,38 @@
+body {
+    background-color: slategray;
+    color: white;
+    list-style: none;
+    align-items: center;
+    list-style-image: none;
+    text-align: center;
+
+}
+
+h1 {
+    padding: 30px;
+    background-color: silver;
+    text-align: center;
+    list-style: none;
+}
+
+h2 {
+    padding: 20px;
+    text-align: center;
+
+}
+
+img {
+    width: 200px;
+    right: 200px;
+    border-radius: 70%;
+    border: 5px solid silver;
+
+}
+
+div img {
+    border: 0px solid slategrey;
+}
+
+l4 img {
+    border: 0px solid slategrey;
+}
